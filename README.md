@@ -13,7 +13,7 @@
 #### About me:
 ♂ 信息与计算科学(计算机学院)  
 中山大学 广州 2018-2022   
-腾讯视频 深圳 2021.4-2021.6
+腾讯     深圳 2021.4-2021.6
 
 #### Contact me:
 `echo bGl3bTI5QG1haWwyLnN5c3UuZWR1LmNuCg== | base64 -d`
