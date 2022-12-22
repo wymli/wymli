@@ -9,13 +9,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wymli&layout=compact&hide_title=true" width=60% />
 
 ## Hi there 👋
-:running: 求实习
+:running: 求工作
 #### About me:
-♂ 信息与计算科学(计算机学院)  
-中山大学 广州 2018-2022   
-腾讯视频 深圳 2021.4-2021.6  
-字节跳动 深圳 2021.8-2021.11
 
-#### Contact me:
-`echo bGl3bTI5QG1haWwyLnN5c3UuZWR1LmNuCg== | base64 -d`
+字节跑路，求收留
+
 </div>
