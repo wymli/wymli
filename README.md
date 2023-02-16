@@ -9,9 +9,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wymli&layout=compact&hide_title=true" width=60% />
 
 ## Hi there 👋
-:running: 求工作
-#### About me:
-
-字节跑路，求收留
+...
 
 </div>
