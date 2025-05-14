@@ -9,6 +9,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wymli&layout=compact&hide_title=true" width=60% />
 
 ## Hi there 👋
-[tech blog](https://wymli.github.io/)
+[技术博客](https://wymli.github.io/)
 
 </div>
