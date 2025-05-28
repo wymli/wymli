@@ -18,11 +18,11 @@
     </div>
     <div>
         Recent Posts:
-        <li><a href="https://wymli.github.io/2025/05/k8s-scheduler/">[k8s] scheduler | 2025-05-27</a></li>
-		<li><a href="https://wymli.github.io/2025/05/python-uv/">[python] uv 版本与包管理 | 2025-05-24</a></li>
-		<li><a href="https://wymli.github.io/2025/05/net-epoll/">[epoll] Epoll/Reactor/Netpoll | 2025-05-20</a></li>
-		<li><a href="https://wymli.github.io/2025/05/llm-intro/">[llm] Intro | 2025-05-19</a></li>
-		<li><a href="https://wymli.github.io/2025/05/aiagent-eino/">[AI Agent] Eino | 2025-05-16</a></li>
+        <li><a target="_blank" href="https://wymli.github.io/2025/05/k8s-scheduler/">[k8s] scheduler | 2025-05-27</a></li>
+		<li><a target="_blank" href="https://wymli.github.io/2025/05/python-uv/">[python] uv 版本与包管理 | 2025-05-24</a></li>
+		<li><a target="_blank" href="https://wymli.github.io/2025/05/net-epoll/">[epoll] Epoll/Reactor/Netpoll | 2025-05-20</a></li>
+		<li><a target="_blank" href="https://wymli.github.io/2025/05/llm-intro/">[llm] Intro | 2025-05-19</a></li>
+		<li><a target="_blank" href="https://wymli.github.io/2025/05/aiagent-eino/">[AI Agent] Eino | 2025-05-16</a></li>
         <li><a href="https://wymli.github.io/">...</a></li>
     </div>
 </div>
