@@ -18,11 +18,11 @@
     </div>
     <div>
         Recent Posts:
-        <li><a target="_blank" href="https://wymli.github.io/2025/05/js-javascript-is-all-you-need/">JS: Javascript is all you need | 2025-05-30</a></li>
+        <li><a target="_blank" href="https://wymli.github.io/2025/06/argo-learning-argo/">[argo] Learning: Argo | 2025-06-07</a></li>
+		<li><a target="_blank" href="https://wymli.github.io/2025/05/js-javascript-is-all-you-need/">JS: Javascript is all you need | 2025-05-30</a></li>
 		<li><a target="_blank" href="https://wymli.github.io/2025/05/volcano-advanced-schedule-strategy/">[volcano] advanced schedule strategy | 2025-05-29</a></li>
 		<li><a target="_blank" href="https://wymli.github.io/2025/05/k8s-volcano-gpu-device-plugin/">[k8s] volcano gpu device plugin | 2025-05-28</a></li>
 		<li><a target="_blank" href="https://wymli.github.io/2025/05/k8s-scheduler/">[k8s] scheduler | 2025-05-27</a></li>
-		<li><a target="_blank" href="https://wymli.github.io/2025/05/python-uv/">[python] uv 版本与包管理 | 2025-05-24</a></li>
         <li><a href="https://wymli.github.io/">...</a></li>
     </div>
 </div>
