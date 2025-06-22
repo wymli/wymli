@@ -18,11 +18,11 @@
     </div>
     <div>
         Recent Posts:
-        <li><a target="_blank" href="https://wymli.github.io/2025/06/gpu-learning-gpu-patitioning-and-nvidia-gpu-operator/">Learning: GPU Patitioning and NVIDIA GPU Operator | 2025-06-09</a></li>
+        <li><a target="_blank" href="https://wymli.github.io/2025/06/learning-redis-datastructure/">Learning: Redis DataStructure | 2025-06-12</a></li>
+		<li><a target="_blank" href="https://wymli.github.io/2025/06/gpu-learning-gpu-patitioning-and-nvidia-gpu-operator/">Learning: GPU Patitioning and NVIDIA GPU Operator | 2025-06-09</a></li>
 		<li><a target="_blank" href="https://wymli.github.io/2025/06/argo-learning-argo/">[argo] Learning: Argo | 2025-06-07</a></li>
 		<li><a target="_blank" href="https://wymli.github.io/2025/05/js-javascript-is-all-you-need/">JS: Javascript is all you need | 2025-05-30</a></li>
 		<li><a target="_blank" href="https://wymli.github.io/2025/05/volcano-advanced-schedule-strategy/">[volcano] advanced schedule strategy | 2025-05-29</a></li>
-		<li><a target="_blank" href="https://wymli.github.io/2025/05/k8s-volcano-gpu-device-plugin/">[k8s] volcano gpu device plugin | 2025-05-28</a></li>
         <li><a href="https://wymli.github.io/">...</a></li>
     </div>
 </div>
