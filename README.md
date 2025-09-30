@@ -10,9 +10,9 @@
 ## Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wymli&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" width=60%/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wymli&layout=compact&hide_title=true" width=60% />
-<p>找工作...</p>
+<p></p>
 
-<div style="border: 5px solid; width: 100px">
+<!-- <div style="border: 5px solid; width: 100px">
     <div>
         <a href="https://wymli.github.io/">技术博客</a>
     </div>
@@ -25,6 +25,6 @@
 		<li><a target="_blank" href="https://wymli.github.io/2025/06/argo-learning-argo/">[argo] Learning: Argo | 2025-06-07</a></li>
         <li><a href="https://wymli.github.io/">...</a></li>
     </div>
-</div>
+</div> -->
 
 </div>
