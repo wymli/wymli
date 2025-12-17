@@ -26,5 +26,6 @@
         <li><a href="https://wymli.github.io/">...</a></li>
     </div>
 </div> -->
+<a href="https://wymli.github.io/">blog...</a>
 
 </div>
